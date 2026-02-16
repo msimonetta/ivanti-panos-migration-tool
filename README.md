@@ -1,10 +1,10 @@
 # Ivanti to PAN-OS Translator
 
-`IvantiToPanosTranslator.ps1` converts Ivanti VPN tunneling ACL policies (`<network-connect-acl>`) into Palo Alto Panorama PAN-OS `set` commands.
+`IvantiToPanosTranslator.ps1` converts Ivanti VPN tunneling resource policies (`<network-connect-acl>`) into Palo Alto Panorama PAN-OS `set` commands.
 
 ## Requirements
 
-- PowerShell Core (`pwsh`)
+- PowerShell
 
 ## Usage
 
